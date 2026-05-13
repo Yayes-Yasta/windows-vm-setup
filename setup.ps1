@@ -8,5 +8,3 @@ iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocola
 
 # Install common tools
 choco install -y git mingw make python vscode 7zip
-
-# GCC is included in mingw
