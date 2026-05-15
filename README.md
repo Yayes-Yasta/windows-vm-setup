@@ -6,7 +6,7 @@ For now, only common programs are installed but I will likely extend the script 
 
 ## Installing common tools
 
-Simply run [setup.ps1](setup.ps1). This will install the following programs:
+Simply run [setup.ps1](setup.ps1) using PowerShell using Admin Privileges. This will install the following programs:
 
 - chocolatey (Package Manager)
 - git
